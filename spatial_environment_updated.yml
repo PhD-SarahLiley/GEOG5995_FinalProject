@@ -14,8 +14,6 @@ dependencies:
   - geopy
   - cartopy
   - pyepsg
-  - contextily
   - rasterio
   - geoplot
-  - folium
   - packaging
