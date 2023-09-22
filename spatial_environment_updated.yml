@@ -3,13 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - geopandas
-  - shapely
-  - fiona
-  - pyproj
-  - pygeos
-  - rtree
-  - mapclassify
-  - libpysal
+
   - matplotlib
   - geoplot
-  - packaging
+
