@@ -26,5 +26,5 @@ This code assumes that the spatial environment has already been loaded, and that
 * geopandas 
 
 ## Further information on Adult Social Care
-* Further Adult Social Care data is available here:
+* Further Adult Social Care data is available here:https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/adult-social-care-data-hub
 * The Kings Fund have created an explainer on Adult Social Care which provides a useful introduction for those unfamiliar with the topic :  https://www.kingsfund.org.uk/health-care-explained#social-care
