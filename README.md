@@ -18,7 +18,7 @@ Supporting information for Masters python programming module
 * I used the five stages of data science process as per the course materials; Collection, Cleaning, Exploratory Data Analysis, Model Building and Model Deployment, adopting an iterative process, with checks after each step, so that if any issues emerged, they could be quickly rectified.
   
 ## Further information required to run code and reproduce analysis
-* This code assumes that the spatial environment has already been loaded, and that the following packages are already installed, ready for import.
+This code assumes that the spatial environment has already been loaded, and that the following packages are already installed, ready for import.
 
 * seaborn 
 * matplotlib.pyplot 
