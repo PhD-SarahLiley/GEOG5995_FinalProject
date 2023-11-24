@@ -5,7 +5,7 @@ Supporting information for Masters python programming module
 * Add section here
 
 ## This repository contains the following files
-* jupyter notebook contain the code and final visualisations
+* jupyter notebook documenting the code and final visualisations
 * downloaded adult social care activity data (ASCFR and SALT Data Tables 2021-22)
 * downloaded local authority shapefile data (England_utla_2022_bgc)
 * downloaded Index of Multiple Deprivation data (File_11_-_IoD2019_Local_Authority_District_Summaries__upper-tier__)
