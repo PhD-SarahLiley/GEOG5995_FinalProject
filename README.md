@@ -2,9 +2,7 @@
 Supporting information for Masters python programming module
 
 ## Background to my project
-* Adult social care in England is means-tested, unlike the NHS which is free at the point of contact. Where individuals are eligible for state support (that is, <>), this support is arranged by local authorities. 
-
-* Local authorities (unlike other geographical boundaries such as electoral wards or LSOAs) vary in size and so I chose to use adult social care data that had already been linked with population data, to provide a uniform metric for standardisation and comparison.
+* Add section here
 
 ## This repository contains the following files
 * jupyter notebook contain the code and final visualisations
@@ -27,3 +25,6 @@ This code assumes that the spatial environment has already been loaded, and that
 * scipy 
 * geopandas 
 
+## Further information on Adult Social Care
+* Further Adult Social Care data is available here:
+* The Kings Fund have created an explainer on Adult Social Care which provides a useful introduction for those unfamiliar with the topic :  https://www.kingsfund.org.uk/health-care-explained#social-care
