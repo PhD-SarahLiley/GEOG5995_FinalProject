@@ -9,7 +9,7 @@ I was keen to use open data to provide additional insight into the provision of 
 ## This repository contains the following files
 * jupyter notebook documenting the code and final visualisations
 * downloaded adult social care activity data (ASCFR and SALT Data Tables 2021-22) from https://digital.nhs.uk/data-and-information/publications/statistical/adult-social-care-activity-and-finance-report/2021-22
-* downloaded local authority shapefile data (England_utla_2022_bgc) from https://borders.ukdataservice.ac.uk/bds.html. To note, move out from folder before running the notebook.
+* downloaded local authority shapefile data (England_utla_2022_bgc) from https://borders.ukdataservice.ac.uk/bds.html. To note, these files should be moved out from the folder before running the notebook.
 * downloaded Index of Multiple Deprivation data (File_11_-_IoD2019_Local_Authority_District_Summaries__upper-tier__) from https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019
 
 ## What the code aims to do
